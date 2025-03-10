@@ -49,6 +49,8 @@ MinaFacade --> RegistroProducao : "controla"
 ```
 
 ## Estrutura
+![image](https://github.com/user-attachments/assets/6cb7cfb5-eb4a-4e41-9369-a40ba95c6d0d)
+
 
 - **Facade (MinaFacade):** Proporciona uma interface simplificada para interagir com o sistema da mina de ouro.
 - **Subsistemas:**
